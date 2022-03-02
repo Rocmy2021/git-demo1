@@ -1,1 +1,1 @@
-Hello world！hot fix!
+Hello hot-fix！
